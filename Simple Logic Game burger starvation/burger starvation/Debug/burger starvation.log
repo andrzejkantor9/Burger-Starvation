@@ -1,0 +1,13 @@
+﻿  main.cpp
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(583): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(610): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(626): warning C4553: '==': operator has no effect; did you intend '='?
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(647): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\burger\simple logic game - burger starvation\burger starvation\main.cpp(810): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  burger starvation.vcxproj -> E:\aaa - pulpit\C++ gamedev\burger\Simple Logic Game - burger starvation\Debug\burger starvation.exe
+  burger starvation.vcxproj -> E:\aaa - pulpit\C++ gamedev\burger\Simple Logic Game - burger starvation\Debug\burger starvation.pdb (Full PDB)
