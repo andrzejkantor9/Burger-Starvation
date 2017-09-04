@@ -1,4 +1,4 @@
-# Simple-Logic-Game---Burger-STarvation readme pl
+# Simple-Logic-Game---Burger-Starvation readme pl
 wstęp:
 Gra została stworzona przy pomocy Visual Studio 2015 Express, C++ i frameworke'a SFML. Była stworzona przeze mnie samego, zacząłem jątworzyć podczas Slavic Game Jam'u i skończyłem jakiś czas później. Celem było stworzenie działającej gry, spojrzenie z perspektywy programisty na tworzenie gier i nauka podstaw framework'u SFML. Kodowi daleko jest do perfekcji, ale spełnia założenia gry jame'owej - działa, choć po pewnym czasie oczywistym było, że bardziej abstrakcyjny styl pisaniabyłby użyteczny - zwłaszcza w przypadku funkcji bHandlePlayAgain albo vResetGame. Jedną z rzeczy, których się nauczyłem było to, że powinienem zawsze pakować jakąkolwiek funkcjonalność w oddzielne funkcje, nawet jeśli nie korzystam z zasad programowania obiektowego.
 
