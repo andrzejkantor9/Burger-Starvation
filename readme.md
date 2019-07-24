@@ -6,6 +6,8 @@ https://youtu.be/zJEp1T_g4c0
 rules:<br/>
 The goal is to deplete "feed" meter while keeping "poison" and "turns" meters higher than 0. You can achieve that by first trying which ingredient is "poisoned" - they deplete "poison" and "feed" meter by 1 after adding them and show purple dot near given ingredient. There are always 3 "poisoned" ingredients and 3 not "poisoned". Repeating any ingredient makes it 2 times less effective. It is important not to waste "turns" since you cannot get them back.
 
+---------------------------------------------------------------------------
+
 Interface:<br/>
 purple meter - "poison" meter, it depletes when you add "poisoned" ingredient into burger. When you add the same "poisoned" ingredient multiple times without using "reset" option it's poisonous effect is halved 2 times each time. Meter resets after using "reset" option. If you reach 0, you've lost.
 
